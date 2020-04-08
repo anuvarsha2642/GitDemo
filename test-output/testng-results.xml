@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-17T18:15:32Z" name="Default suite" finished-at="2020-03-17T18:15:35Z" duration-ms="2696">
+    <groups>
+    </groups>
+    <test started-at="2020-03-17T18:15:32Z" name="Default test" finished-at="2020-03-17T18:15:35Z" duration-ms="2696">
+      <class name="openHrmManagement.restassuredPractice">
+        <test-method signature="addAPI()[pri:0, instance:openHrmManagement.restassuredPractice@2aa3cd93]" started-at="2020-03-17T11:15:32Z" name="addAPI" finished-at="2020-03-17T11:15:35Z" duration-ms="2672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAPI -->
+      </class> <!-- openHrmManagement.restassuredPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
